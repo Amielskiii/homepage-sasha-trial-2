@@ -434,16 +434,6 @@ main {
     position: relative;
 }
 
-.quote-large {
-    font-size: 120px;
-    font-weight: 700;
-    color: #f0f0f0;
-    line-height: 0.8;
-    position: absolute;
-    top: -40px;
-    left: 50%;
-    transform: translateX(-50%);
-}
 
 blockquote {
     position: relative;
